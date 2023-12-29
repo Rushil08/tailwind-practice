@@ -3,11 +3,11 @@ import { TypeAnimation } from "react-type-animation";
 
 function Hero() {
   return (
-    <div className="text-white  w-full h-screen text-center pt-[10%]">
+    <div className="text-white  w-full h-[90vh] text-center pt-[15%] md:pt-[10%]">
       <p className="uppercase text-cyan-400 font-bold p-0 text-[1.15rem] md:text-xl md:p-2">
         Growing with data analytics
       </p>
-      <h1 className="font-bold md:text-7xl sm:text-6xl text-[2.75rem]">
+      <h1 className="font-bold md:text-7xl sm:text-6xl text-[2.75rem] px-1">
         Grow with data.
       </h1>
       <div className="font-bold md:text-5xl sm:text-4xl text-[1.25rem] md:p-2 p-1">
