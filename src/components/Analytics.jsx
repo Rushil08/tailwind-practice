@@ -14,7 +14,7 @@ function Analytics() {
           <p className="uppercase text-cyan-500 font-bold">
             Data analytics dashboard
           </p>
-          <h1 className="font-bold text-xl my-1">
+          <h1 className="font-bold text-xl md:text-2xl my-1">
             Manage Data Analytics Centrally
           </h1>
           <p className="">
